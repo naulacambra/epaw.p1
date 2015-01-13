@@ -36,6 +36,8 @@ public class HelloWorld extends HttpServlet {
 			print.print("<html><head></head><body>");
 			print.print("<table>");
 			print.print("<tr>");
+			
+			
 			print.print("<th>ID</th>");
 			print.print("<th>NOM</th>");
 			print.print("<th>DESCRIPCIO</th>");
